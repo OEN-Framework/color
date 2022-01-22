@@ -1,2 +1,10 @@
 # color
-Implement all web color for project purpose
+Implement all color on animation web for project purpose:
+   - Backgrounds
+   - Colors
+   - Border colors
+   - SVG fills
+   - SVG Strokes
+
+
+
